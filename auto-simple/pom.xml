@@ -221,6 +221,7 @@
 			</plugins>
 		</pluginManagement>
 		<finalName>auto</finalName>
+		 <defaultGoal>compile</defaultGoal>
 		<resources>
 			<resource>
 				<directory>src/test/java</directory>
