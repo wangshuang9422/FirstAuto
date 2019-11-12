@@ -18,5 +18,6 @@ public class NewTest extends DriverBase {
 			//校验返回值包含STATUS OK
 			assertTrue(a.contains("STATUS OK"));
 
+			//xiugaibeizhu 
   }
 }
